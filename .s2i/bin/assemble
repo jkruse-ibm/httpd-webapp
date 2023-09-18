@@ -2,4 +2,6 @@
 
 /usr/libexec/s2i/assemble
 
+echo "Today is 2023-09-18" > info.html
+
 cp -Rf /tmp/src/*.html .
